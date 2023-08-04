@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3ukRyfhrTc2Q6JDIzMiOgZX54BMH5n4fCL3AfjS7YD8KQ0GmRIKyhSlPXc3GIdzvidUI2jwq41BSudrotDIBdw==",
+  "dgSpecHash": "vEXT+K8k2TsbnsTv9Yf4tg46Jpakh37yxbATesXBBGkWGNiNDrtmKsYZPs1W9jm4zizMR3SccftDgP1TCXlwVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Documents\\Proyecto Carrito de compras\\ProtectoMVC\\CapaPesentacionTienda\\CapaPesentacionTienda.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\bootstrap\\5.3.1\\bootstrap.5.3.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
